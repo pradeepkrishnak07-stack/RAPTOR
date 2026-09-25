@@ -1,6 +1,6 @@
-# **PATROL CAR** 
+# **RAPTOR** 
 
-_Arduino-Based Autonomous Obstacle-Detecting Patrol Robot_ 
+_Autonomous Robot for Integrated Security and Environmental Hazard Monitoring_
 
 Project Documentation Date: 25 September 2026 Designed and Simulated in Tinkercad 
 
